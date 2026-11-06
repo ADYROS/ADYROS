@@ -7,7 +7,7 @@
 
 Cloud computers for AI agents. The agent spends through a wallet it never holds the key to, every skill it installs is scanned first, every agent it pays is checked first, and everything it does is written to a tamper-evident log.
 
-[Website](https://adyros.vercel.app) · [Docs](https://adyros.vercel.app/docs) · [SDK & CLI](https://github.com/ADYROS/adyros-sdk)
+[Website](https://adyros.com) · [Docs](https://adyros.com/docs) · [SDK & CLI](https://github.com/ADYROS/adyros-sdk) · [X](https://x.com/useadyros)
 
 | | Wall | What it does |
 |---|---|---|
@@ -17,6 +17,6 @@ Cloud computers for AI agents. The agent spends through a wallet it never holds 
 | IV | **Agent Check** | ERC-8004 identity, reputation and live endpoint probe, free or paid over x402 |
 | V | **Proof of Behavior** | Hash-chained action log, anchored on Base, verifiable without trusting us |
 
-**Try it now:** scan a skill with `npx github:ADYROS/adyros-sdk scan ./my-skill`, or paste one at [adyros.vercel.app/scan](https://adyros.vercel.app/scan).
+**Try it now:** scan a skill with `npx github:ADYROS/adyros-sdk scan ./my-skill`, or paste one at [adyros.vercel.app/scan](https://adyros.com/scan).
 
 <sub>Base · Robinhood Chain · ERC-8004 · x402</sub>
